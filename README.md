@@ -85,10 +85,5 @@ Created an interactive dashboard to visualize:
 
 Feel free to connect or give feedback!
 
----
 
-If you want, I can also:
-
-* make it more **ATS/recruiter-focused**
-* or add **badges + visuals** to make your GitHub stand out 🔥
 
